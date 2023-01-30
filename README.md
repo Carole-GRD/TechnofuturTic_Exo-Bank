@@ -9,4 +9,4 @@ Création d'une application de gestion bancaire (apprentissage de "Typescript").
 
  1. Installer typescript de manière gloabale ```npm install -g typescript```
  2. ```tsc -w``` compiler le code
- 3; ```node dist/index.js```
+ 3. ```node dist/index.js```
